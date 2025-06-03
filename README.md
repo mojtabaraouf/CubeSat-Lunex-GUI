@@ -41,6 +41,11 @@ The CubeSat-Lunex-GUI is a graphical user interface (GUI) designed for conductin
 
 4. Analyze the collected data using the built-in visualization tools.
 
+
+![GUI-Moon-Scanner](https://github.com/user-attachments/assets/a5504281-75a6-4f0b-8fdb-a1d6b3845b41)
+
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
