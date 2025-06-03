@@ -49,7 +49,7 @@ Contributions are welcome! Please follow these steps:
 2. Create a new branch (`git checkout -b feature/YourFeature`).
 3. Make your changes and commit them (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
+5. Open a pull request or contact mojtaba.raouf@gmail.com
 
 ## License
 
